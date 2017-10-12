@@ -1,0 +1,5 @@
+84a6bb8 Merge pull request #173 from neelabhg/fixes
+94e8556 Fix broken CI build
+7a8c7fc Fix test config after Babel and eslint upgrade
+899434b Update and use non-react version of Airbnb config
+5f25eaf Upgrade to Babel 6
