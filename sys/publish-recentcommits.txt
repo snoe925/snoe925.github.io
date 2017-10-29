@@ -1,5 +1,5 @@
-84a6bb8 Merge pull request #173 from neelabhg/fixes
-94e8556 Fix broken CI build
-7a8c7fc Fix test config after Babel and eslint upgrade
-899434b Update and use non-react version of Airbnb config
-5f25eaf Upgrade to Babel 6
+f42015a Merge pull request #174 from neelabhg/git_hooks_and_doc_improvements
+278f271 Update doc to mention monorepo structure
+4ce194e Check jor1k changes and run ESLint on pre-commit
+67bba56 Convert setup script to JS, run it during install
+8c26a1d Add top-level package.json for project-wide uses
